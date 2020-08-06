@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 - Articles:   https://www.datainmotion.dev/
 
 - Everything Apache NiFi:   https://github.com/tspannhw/EverythingApacheNiFi
+
+
+![Example NiFi Flow](https://1.bp.blogspot.com/-xQPASF1FTc0/Xwi62A2SF_I/AAAAAAAAbP8/shkg_HH9hIUrCySv2bjYajF34rgvRBhCgCLcBGAsYHQ/w650-h781/ingestusweather.png)

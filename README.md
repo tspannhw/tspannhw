@@ -12,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Who him?  
 - ⚡ Fun fact: Cats
 - ⚡ Meet Me Online:  https://www.meetup.com/futureofdata-princeton/
+
+- Articles:   https://www.datainmotion.dev/
+
+- Everything Apache NiFi:   https://github.com/tspannhw/EverythingApacheNiFi

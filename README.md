@@ -3,6 +3,17 @@
 
 ![Tim](https://dzone.com/storage/attachments/9160718-adlpic.png)
 
+https://www.linkedin.com/in/timothyspann/
+
+https://twitter.com/paasdev
+
+Tim Spann is a Principal DataFlow Field Engineer at Cloudera, the Big Data Zone leader and blogger at DZone and an experienced data engineer with 15 years of experience. He runs the Future of Data Princeton meetup as well as other events. He has spoken at Philly Open Source, ApacheCon in Montreal, Strata NYC, Oracle Code NYC, IoT Fusion in Philly, meetups in Princeton, NYC, Philly, Berlin and Prague, DataWorks Summits in San Jose, Berlin and Sydney.
+
+Upcoming Events:   Kafka Summit, Digital Beam Summit, Flink Forward, ApacheCon, ...
+
+https://www.linkedin.com/pulse/my-virtual-schedule-2020-tim-spann/
+
+
 - 🔭 I’m currently working on talks on NiFi, Kafka, Flink, ...
 - 🌱 I’m currently learning Apache Flink.
 - 👯 I’m looking to collaborate on FLaNK Stack (Flink + NiFi + Kafka (+Kudu))

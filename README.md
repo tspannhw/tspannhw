@@ -1,7 +1,7 @@
 ### Timothy Spann
 #### Principal DataFlow Field Engineer, Cloudera
 
-![Tim](/headshots/mlx90640-2020-01-05-20-52-14.gif)
+![Tim](/headshots/mlx90640-2020-01-05-20-52-14.gif?raw=true"Tim")
 
 https://www.linkedin.com/in/timothyspann/
 

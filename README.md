@@ -1,7 +1,7 @@
 ### Timothy Spann
 #### Principal DataFlow Field Engineer, Cloudera
 
-![Tim](https://dzone.com/storage/attachments/9160718-adlpic.png)
+![Tim](https://twitter.com/i/status/1215361041028276227)
 
 https://www.linkedin.com/in/timothyspann/
 
@@ -29,3 +29,6 @@ https://www.linkedin.com/pulse/my-virtual-schedule-2020-tim-spann/
 
 
 ![Example NiFi Flow](https://1.bp.blogspot.com/-xQPASF1FTc0/Xwi62A2SF_I/AAAAAAAAbP8/shkg_HH9hIUrCySv2bjYajF34rgvRBhCgCLcBGAsYHQ/w650-h781/ingestusweather.png)
+
+
+![Tim](https://dzone.com/storage/attachments/9160718-adlpic.png)

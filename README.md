@@ -19,10 +19,10 @@ https://www.linkedin.com/pulse/2021-schedule-tim-spann/?trackingId=5R87901yQSiOM
 https://www.linkedin.com/pulse/my-virtual-schedule-2020-tim-spann/
 
 
-- 🔭 I’m currently working on talks on NiFi, Kafka, Flink, ...
+- 🔭 I’m currently working on talks on NiFi, Pulsar, Flink, ...
 - 🌱 I’m currently learning Apache Flink.
-- 👯 I’m looking to collaborate on FLaNK Stack (Flink + NiFi + Kafka (+Kudu))
-- 💬 Ask me about Apache NiFi, Apache Flink, Apache Kafka, Streaming, IoT, Java Deep Learning, Edge Devices, Cloudera, Big Data
+- 👯 I’m looking to collaborate on FLiP Stack (Flink + NiFi + Pulsar)
+- 💬 Ask me about Apache NiFi, Apache Flink, Apache Pulsar, Streaming, Messaging, IoT, Java Deep Learning, Edge Devices, StreamNative, Big Data
 - 📫 How to reach me: @PaasDev https://dev.to/tspannhw
 - 😄 Pronouns: They call him, "Tim"
 - ⚡ Fun fact: Cats

@@ -33,6 +33,8 @@ https://www.linkedin.com/pulse/my-virtual-schedule-2020-tim-spann/
 - Everything Apache NiFi:   https://github.com/tspannhw/EverythingApacheNiFi
 - Everything Apache Pulsar:  https://github.com/tspannhw/EverythingApachePulsar
 
+![tspannhw's GitHub stats](https://github-readme-stats.vercel.app/api?username=tspannhw&include_all_commits=true&count_private=true&theme=cobalt)
+
 ![Example NiFi Flow](https://1.bp.blogspot.com/-xQPASF1FTc0/Xwi62A2SF_I/AAAAAAAAbP8/shkg_HH9hIUrCySv2bjYajF34rgvRBhCgCLcBGAsYHQ/w650-h781/ingestusweather.png)
 
 

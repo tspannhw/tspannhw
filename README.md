@@ -5,19 +5,24 @@
 
 See my full details here:   https://github.com/tspannhw/SpeakerProfile
 
-https://www.linkedin.com/in/timothyspann/
-
-https://twitter.com/paasdev
-
-https://www.eventstreamprocessing.dev/
+* https://www.linkedin.com/in/timothyspann/
+* https://twitter.com/paasdev
+* https://www.eventstreamprocessing.dev/
+* https://www.papercall.io/speakers/tim-spann
+* https://www.papercall.io/speakers/tim-spann-pulsar
+* https://sessionize.com/tspann/
+* https://dzone.com/users/297029/bunkertor.html
+* https://dzone.com/trendreports/enterprise-ai-1
+* https://medium.com/@tspann
+* https://linktr.ee/tspannhw
+* https://www.datainmotion.dev/p/about-me.html
+* https://dzone.com/users/297029/bunkertor.html
+* https://timwithpulsar.hashnode.dev/
+* https://dev.to/tspannhw
 
 Tim Spann is a Developer Advocate @ StreamNative, the Big Data Zone leader and blogger at DZone and an experienced data engineer with 15 years of experience. He runs the Future of Data Princeton meetup as well as other events. He has spoken at Philly Open Source, ApacheCon in Montreal, Strata NYC, Oracle Code NYC, IoT Fusion in Philly, meetups in Princeton, NYC, Philly, Berlin and Prague, DataWorks Summits in San Jose, Berlin and Sydney.
 
-Upcoming Events:  ApacheCon, ... 
-
-https://www.linkedin.com/pulse/2021-schedule-tim-spann/?trackingId=5R87901yQSiOMQ9UTS9SEg%3D%3D
-https://www.linkedin.com/pulse/my-virtual-schedule-2020-tim-spann/
-
+Upcoming Events:  Philly ETE, ML Conf NYC, KubeCon, Spring IO, We are Developers, Pulsar Meetup, ... 
 
 - 🔭 I’m currently working on talks on NiFi, Pulsar, Flink, ...
 - 🌱 I’m currently learning Apache Flink.
@@ -26,7 +31,7 @@ https://www.linkedin.com/pulse/my-virtual-schedule-2020-tim-spann/
 - 📫 How to reach me: @PaasDev https://dev.to/tspannhw
 - 😄 Pronouns: They call him, "Tim"
 - ⚡ Fun fact: Cats
-- ⚡ Meet Me Online:  https://www.meetup.com/futureofdata-princeton/
+- ⚡ Meet Me Online:  https://www.meetup.com/new-york-city-apache-pulsar-meetup/
 
 - Articles:   https://www.datainmotion.dev/
 

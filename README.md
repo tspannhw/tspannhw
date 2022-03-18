@@ -3,6 +3,8 @@
 
 ![Tim](https://raw.githubusercontent.com/tspannhw/tspannhw/main/headshots/mlx90640-2020-01-05-20-52-14.gif)
 
+![Badger2040](https://raw.githubusercontent.com/tspannhw/FLiP-Py-SmartBadges/main/timbadge.png)
+
 See my full details here:   https://github.com/tspannhw/SpeakerProfile
 
 * https://www.linkedin.com/in/timothyspann/

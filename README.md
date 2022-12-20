@@ -21,6 +21,7 @@ See my full details here:   https://github.com/tspannhw/SpeakerProfile
 * https://dzone.com/users/297029/bunkertor.html
 * https://timwithpulsar.hashnode.dev/
 * https://dev.to/tspannhw
+* https://www.phatstack.dev/ (Pulsar + Hazelcast)
 
 Tim Spann is a Developer Advocate @ StreamNative, the Big Data Zone leader and blogger at DZone and an experienced data engineer with 15 years of experience. He runs the Future of Data Princeton meetup as well as other events. He has spoken at Philly Open Source, ApacheCon in Montreal, Strata NYC, Oracle Code NYC, IoT Fusion in Philly, meetups in Princeton, NYC, Philly, Berlin and Prague, DataWorks Summits in San Jose, Berlin and Sydney.
 

@@ -5,6 +5,8 @@
 
 ![Badger2040](https://raw.githubusercontent.com/tspannhw/FLiP-Py-SmartBadges/main/timbadge.png)
 
+Youtube Channel:  https://www.youtube.com/@FLiP-Stack
+
 See my full details here:   https://github.com/tspannhw/SpeakerProfile
 
 * https://www.linkedin.com/in/timothyspann/

@@ -36,6 +36,11 @@ Upcoming Events:  Python Web Conference, Real-time analytics summit, DevNexus, M
 - ⚡ Fun fact: Cats
 - ⚡ Meet Me Online:  https://www.meetup.com/new-york-city-apache-pulsar-meetup/ https://www.meetup.com/futureofdata-princeton/
 
+- [![Twitter Follow](https://img.shields.io/twitter/follow/paasdev.svg?style=social)](https://twitter.com/paasdev)
+- [![LinkedIn Profile](https://img.shields.io/badge/timothyspann--lightgrey?logo=linkedin&style=social)](https://www.linkedin.com/in/timothyspann)
+- [![Medium](https://img.shields.io/badge/Tim%20on%20Medium--lightgrey?logo=medium&style=social)](https://medium.com/@tspann)
+- [![YouTube](https://img.shields.io/youtube/channel/views/UCDIDMDfje6jAvNE8DGkJ3_w?style=social)](https://www.youtube.com/@FLaNK-Stack)
+
 - Articles:   https://www.datainmotion.dev/
 
 - Everything Apache NiFi:   https://github.com/tspannhw/EverythingApacheNiFi

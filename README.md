@@ -3,7 +3,7 @@
 
 ![Tim](https://raw.githubusercontent.com/tspannhw/tspannhw/main/headshots/mlx90640-2020-01-05-20-52-14.gif)
 
-Youtube Channel:  https://www.youtube.com/@FLiP-Stack
+Youtube Channel:  [https://www.youtube.com/@FLiP-Stack](https://www.youtube.com/@FLank-Stack)
 
 See my full details here:   https://github.com/tspannhw/SpeakerProfile
 

@@ -25,12 +25,14 @@ See my full details here:   https://github.com/tspannhw/SpeakerProfile
 
 Tim Spann is the Principal Developer Advocate for Streaming @ Cloudera, the Big Data Zone leader and blogger at DZone and an experienced data engineer with 15 years of experience. He runs the Future of Data Princeton meetup as well as other events. He has spoken at Philly Open Source, ApacheCon in Montreal, Strata NYC, Oracle Code NYC, IoT Fusion in Philly, meetups in Princeton, NYC, Philly, Berlin and Prague, DataWorks Summits in San Jose, Berlin and Sydney.
 
-Upcoming Events:  Python Web Conference, Real-time analytics summit, DevNexus, Meetups, ... 
+Milvus, Unstructured Data Processing, Open Source Vector Database, towhee, Attu, Milvus CLI, Milvus Backup, Milvus Sizing Tool, feder, GPTCache, Hugging Face, Python, LLM, Pytorch, LangChain, RAG, Ollama.
 
-- 🔭 I’m currently working on talks on NiFi, Kafka, Flink, Iceberg, Ozone, Pulsar, Pinot, ...
-- 🌱 I’m currently learning Apache Flink.
-- 👯 I’m looking to collaborate on FLiPN-FLANK Stack (Flink + NiFi + Kafka / Pulsar)
-- 💬 Ask me about Apache NiFi, Apache Flink, Apache Kafka, Apache Pulsar, Apache Iceberg, Cloud Native Data, Unified Data Ingest, Streaming, Messaging, IoT, Java Deep Learning, Edge Devices, Big Data
+Upcoming Events:  Conferences, Meetups, ... 
+
+- 🔭 I’m currently working on talks on Milvus, towhee, Attu, GPTCache, HuggingFace, NiFi, Kafka, Flink, Iceberg, Ozone, Pulsar, Pinot, ...
+- 🌱 I’m currently learning Milvus.
+- 👯 I’m looking to collaborate on FLANK-AIM Stack (Flink + NiFi + Kafka - AI - Milvus)
+- 💬 Ask me about Milvus, Unstructured Data Processing, towhee, Attu, Vector Databases, RAG, Apache NiFi, Apache Flink, Apache Kafka, Apache Pulsar, Apache Iceberg, Cloud Native Data, Unified Data Ingest, Streaming, Messaging, IoT, Java Deep Learning, Edge Devices, Big Data
 - 📫 How to reach me: @PaasDev https://dev.to/tspannhw
 - 😄 Pronouns: They call him, "Tim"
 - ⚡ Fun fact: Cats

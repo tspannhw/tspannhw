@@ -1,5 +1,5 @@
 ### Timothy Spann
-#### Principal Developer Advocate Streaming, Cloudera
+#### Principal Developer Advocate - Milvus - Zilliz
 
 ![Tim](https://raw.githubusercontent.com/tspannhw/tspannhw/main/headshots/mlx90640-2020-01-05-20-52-14.gif)
 
@@ -23,7 +23,7 @@ See my full details here:   https://github.com/tspannhw/SpeakerProfile
 * https://dev.to/tspannhw
 * https://www.phatstack.dev/ (Pulsar + Hazelcast)
 
-Tim Spann is the Principal Developer Advocate for Streaming @ Cloudera, the Big Data Zone leader and blogger at DZone and an experienced data engineer with 15 years of experience. He runs the Future of Data Princeton meetup as well as other events. He has spoken at Philly Open Source, ApacheCon in Montreal, Strata NYC, Oracle Code NYC, IoT Fusion in Philly, meetups in Princeton, NYC, Philly, Berlin and Prague, DataWorks Summits in San Jose, Berlin and Sydney.
+Tim Spann is the Principal Developer Advocate for Milvus @ Zilliz, the Big Data Zone leader and blogger at DZone and an experienced data engineer with 15 years of experience. He runs the Future of Data Princeton meetup as well as other events. He has spoken at Philly Open Source, ApacheCon in Montreal, Strata NYC, Oracle Code NYC, IoT Fusion in Philly, meetups in Princeton, NYC, Philly, Berlin and Prague, DataWorks Summits in San Jose, Berlin and Sydney.
 
 Milvus, Unstructured Data Processing, Open Source Vector Database, towhee, Attu, Milvus CLI, Milvus Backup, Milvus Sizing Tool, feder, GPTCache, Hugging Face, Python, LLM, Pytorch, LangChain, RAG, Ollama.
 
@@ -36,7 +36,7 @@ Upcoming Events:  Conferences, Meetups, ...
 - 📫 How to reach me: @PaasDev https://dev.to/tspannhw
 - 😄 Pronouns: They call him, "Tim"
 - ⚡ Fun fact: Cats
-- ⚡ Meet Me Online:  https://www.meetup.com/new-york-city-apache-pulsar-meetup/ https://www.meetup.com/futureofdata-princeton/
+- ⚡ Meet Me Online:  https://www.meetup.com/unstructured-data-meetup-new-york/
 
 - [![Twitter Follow](https://img.shields.io/twitter/follow/paasdev.svg?style=social)](https://twitter.com/paasdev)
 - [![LinkedIn Profile](https://img.shields.io/badge/timothyspann--lightgrey?logo=linkedin&style=social)](https://www.linkedin.com/in/timothyspann)
@@ -46,7 +46,7 @@ Upcoming Events:  Conferences, Meetups, ...
 - Articles:   https://www.datainmotion.dev/
 
 - Everything Apache NiFi:   https://github.com/tspannhw/EverythingApacheNiFi
-- Everything Apache Pulsar:  https://github.com/tspannhw/EverythingApachePulsar
+- Everything Apache Milvus:  https://github.com/tspannhw/EverythingMilvus
 
 ![tspannhw's GitHub stats](https://github-readme-stats.vercel.app/api?username=tspannhw&include_all_commits=true&count_private=true&theme=cobalt)
 

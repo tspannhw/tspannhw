@@ -48,8 +48,7 @@ Upcoming Events:  Conferences, Meetups, ...
 
 ![tspannhw's GitHub stats](https://github-readme-stats.vercel.app/api?username=tspannhw&include_all_commits=true&count_private=true&theme=cobalt)
 
-![Example NiFi Flow](https://1.bp.blogspot.com/-xQPASF1FTc0/Xwi62A2SF_I/AAAAAAAAbP8/shkg_HH9hIUrCySv2bjYajF34rgvRBhCgCLcBGAsYHQ/w650-h781/ingestusweather.png)
-
+![img](https://sessionize.com/Assets/speaker-certificate/Most_Active_Speaker2023.svg)
 
 ![Tim](https://dzone.com/storage/attachments/9160718-adlpic.png)
 ![Tim](https://raw.githubusercontent.com/tspannhw/tspannhw/main/headshots/headshotTimSpann.png)

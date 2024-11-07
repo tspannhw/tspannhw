@@ -51,4 +51,4 @@ Upcoming Events:  Conferences, Meetups, ...
 ![img](https://sessionize.com/Assets/speaker-certificate/Most_Active_Speaker2023.svg)
 
 ![Tim](https://dzone.com/storage/attachments/9160718-adlpic.png)
-![Tim](https://raw.githubusercontent.com/tspannhw/tspannhw/main/headshots/headshotTimSpann.png)
+

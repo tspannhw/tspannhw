@@ -1,5 +1,5 @@
 ### Timothy Spann
-#### Principal Developer Advocate - Milvus - Zilliz
+#### Principal Developer Advocate / Field Engineer / Streaming Data Engineer / AI Data Engineer
 
 ![Tim](https://raw.githubusercontent.com/tspannhw/tspannhw/main/headshots/mlx90640-2020-01-05-20-52-14.gif)
 
@@ -9,7 +9,6 @@ See my full details here:   https://github.com/tspannhw/SpeakerProfile
 
 * https://www.linkedin.com/in/timothyspann/
 * https://twitter.com/paasdev
-* https://www.eventstreamprocessing.dev/
 * https://www.papercall.io/speakers/tim-spann
 * https://www.papercall.io/speakers/tim-spann-pulsar
 * https://sessionize.com/tspann/
@@ -17,22 +16,21 @@ See my full details here:   https://github.com/tspannhw/SpeakerProfile
 * https://dzone.com/trendreports/enterprise-ai-1
 * https://medium.com/@tspann
 * https://linktr.ee/tspannhw
-* https://www.datainmotion.dev/p/about-me.html
+* https://www.datainmotion.dev/
 * https://dzone.com/users/297029/bunkertor.html
 * https://timwithpulsar.hashnode.dev/
 * https://dev.to/tspannhw
-* https://www.phatstack.dev/ (Pulsar + Hazelcast)
 
-Tim Spann is the Principal Developer Advocate for Milvus @ Zilliz, the Big Data Zone leader and blogger at DZone and an experienced data engineer with 15 years of experience. He runs the Future of Data Princeton meetup as well as other events. He has spoken at Philly Open Source, ApacheCon in Montreal, Strata NYC, Oracle Code NYC, IoT Fusion in Philly, meetups in Princeton, NYC, Philly, Berlin and Prague, DataWorks Summits in San Jose, Berlin and Sydney.
+Tim Spann is the Principal Developer Advocate for Milvus @ Zilliz, the ML, IoT and Big Data Zone leader and blogger at DZone and an experienced data engineer with 15 years of experience. He runs multiple New Jersey and New York City meetups as well as other events. He has spoken at over 200 in-person and virtual events including Philly Open Source, ApacheCon, Strata NYC, Oracle Code NYC, IoT Fusion in Philly, meetups in Princeton, NYC, Philly, Berlin and Prague, DataWorks Summits in San Jose, Berlin and Sydney.
 
-Milvus, Unstructured Data Processing, Open Source Vector Database, towhee, Attu, Milvus CLI, Milvus Backup, Milvus Sizing Tool, feder, GPTCache, Hugging Face, Python, LLM, Pytorch, LangChain, RAG, Ollama.
+Kafka, Flink, Pulsar, NiFi, Data Engineering Milvus, Unstructured Data Processing, Open Source Vector Database, towhee, Attu, Milvus CLI, Milvus Backup, Milvus Sizing Tool, feder, GPTCache, Hugging Face, Python, LLM, Pytorch, LangChain, RAG, Ollama.
 
 Upcoming Events:  Conferences, Meetups, ... 
 
-- 🔭 I’m currently working on talks on Milvus, towhee, Attu, GPTCache, HuggingFace, NiFi, Kafka, Flink, Iceberg, Ozone, Pulsar, Pinot, ...
+- 🔭 I’m currently working on talks on Milvus,, HuggingFace, Kafka, Flink, Iceberg, NiFi, Pulsar, ...
 - 🌱 I’m currently learning Milvus.
 - 👯 I’m looking to collaborate on FLANK-AIM Stack (Flink + NiFi + Kafka - AI - Milvus)
-- 💬 Ask me about Milvus, Unstructured Data Processing, towhee, Attu, Vector Databases, RAG, Apache NiFi, Apache Flink, Apache Kafka, Apache Pulsar, Apache Iceberg, Cloud Native Data, Unified Data Ingest, Streaming, Messaging, IoT, Java Deep Learning, Edge Devices, Big Data
+- 💬 Ask me about Milvus, Unstructured Data Processing, Vector Databases, RAG, Apache NiFi, Apache Flink, Apache Kafka, Apache Pulsar, Apache Iceberg, Cloud Native Data, Unified Data Ingest, Streaming, Messaging, IoT, Java Deep Learning, Edge Devices, Big Data
 - 📫 How to reach me: @PaasDev https://dev.to/tspannhw
 - 😄 Pronouns: They call him, "Tim"
 - ⚡ Fun fact: Cats

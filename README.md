@@ -21,20 +21,20 @@ See my full details here:   https://github.com/tspannhw/SpeakerProfile
 * https://timwithpulsar.hashnode.dev/
 * https://dev.to/tspannhw
 
-Tim Spann is the Principal Developer Advocate for Milvus @ Zilliz, the ML, IoT and Big Data Zone leader and blogger at DZone and an experienced data engineer with 15 years of experience. He runs multiple New Jersey and New York City meetups as well as other events. He has spoken at over 200 in-person and virtual events including Philly Open Source, ApacheCon, Strata NYC, Oracle Code NYC, IoT Fusion in Philly, meetups in Princeton, NYC, Philly, Berlin and Prague, DataWorks Summits in San Jose, Berlin and Sydney.
+Tim Spann is the Senior Solutions Engineer for Snowflake in the North East covering US Financial companies, formerely Principal Developer Advocate for Milvus @ Zilliz, the ML, IoT and Big Data Zone leader and blogger at DZone and an experienced data engineer with 15 years of experience. He runs multiple New Jersey and New York City meetups as well as other events. He has spoken at over 200 in-person and virtual events including Philly Open Source, ApacheCon, Strata NYC, Oracle Code NYC, IoT Fusion in Philly, meetups in Princeton, NYC, Philly, Berlin and Prague, DataWorks Summits in San Jose, Berlin and Sydney.
 
-Kafka, Flink, Pulsar, NiFi, Data Engineering Milvus, Unstructured Data Processing, Open Source Vector Database, towhee, Attu, Milvus CLI, Milvus Backup, Milvus Sizing Tool, feder, GPTCache, Hugging Face, Python, LLM, Pytorch, LangChain, RAG, Ollama.
+Snowflake, Iceberg, AI, GenAI, ML, Python, Kafka, Flink, Pulsar, NiFi, Data Engineering Milvus, Unstructured Data Processing, Open Source Vector Database, towhee, Attu, Milvus CLI, Milvus Backup, Milvus Sizing Tool, feder, GPTCache, Hugging Face, Python, LLM, Pytorch, LangChain, RAG, Ollama.
 
 Upcoming Events:  Conferences, Meetups, ... 
 
-- 🔭 I’m currently working on talks on Milvus,, HuggingFace, Kafka, Flink, Iceberg, NiFi, Pulsar, ...
+- 🔭 I’m currently working on talks on Snowflake, AI, Kafka, Iceberg, NiFi, ...
 - 🌱 I’m currently learning Milvus.
-- 👯 I’m looking to collaborate on FLANK-AIM Stack (Flink + NiFi + Kafka - AI - Milvus)
-- 💬 Ask me about Milvus, Unstructured Data Processing, Vector Databases, RAG, Apache NiFi, Apache Flink, Apache Kafka, Apache Pulsar, Apache Iceberg, Cloud Native Data, Unified Data Ingest, Streaming, Messaging, IoT, Java Deep Learning, Edge Devices, Big Data
+- 👯 I’m looking to collaborate on PINS AI Stack (Polaris + Iceberg + NiFi + Streamlit + Snowflake + Kafka + AI)
+- 💬 Ask me about Snowflake, Unstructured Data Processing, Vector Databases, RAG, Apache NiFi, Apache Flink, Apache Kafka, Apache Pulsar, Apache Iceberg, Cloud Native Data, Unified Data Ingest, Streaming, Messaging, IoT, Java Deep Learning, Edge Devices, Big Data
 - 📫 How to reach me: @PaasDev https://dev.to/tspannhw
 - 😄 Pronouns: They call him, "Tim"
 - ⚡ Fun fact: Cats
-- ⚡ Meet Me Online:  https://www.meetup.com/unstructured-data-meetup-new-york/
+- ⚡ Meet Me Online:  https://luma.com/PINSAI?period=past
 
 - [![Twitter Follow](https://img.shields.io/twitter/follow/paasdev.svg?style=social)](https://twitter.com/paasdev)
 - [![LinkedIn Profile](https://img.shields.io/badge/timothyspann--lightgrey?logo=linkedin&style=social)](https://www.linkedin.com/in/timothyspann)
@@ -44,11 +44,11 @@ Upcoming Events:  Conferences, Meetups, ...
 - Articles:   https://www.datainmotion.dev/
 
 - Everything Apache NiFi:   https://github.com/tspannhw/EverythingApacheNiFi
-- Everything Apache Milvus:  https://github.com/tspannhw/EverythingMilvus
 
 ![tspannhw's GitHub stats](https://github-readme-stats.vercel.app/api?username=tspannhw&include_all_commits=true&count_private=true&theme=cobalt)
 
 ![img](https://sessionize.com/Assets/speaker-certificate/Most_Active_Speaker2023.svg)
+![img](https://sessionize.com/Assets/speaker-certificate/Most_Active_Speaker2024.svg)
 
 ![Tim](https://dzone.com/storage/attachments/9160718-adlpic.png)
 

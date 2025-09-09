@@ -1,5 +1,5 @@
 ### Timothy Spann
-#### Principal Developer Advocate / Field Engineer / Streaming Data Engineer / AI Data Engineer
+#### Senior Solutions Engineer / Principal Developer Advocate / Field Engineer / Streaming Data Engineer / AI Data Engineer
 
 ![Tim](https://raw.githubusercontent.com/tspannhw/tspannhw/main/headshots/mlx90640-2020-01-05-20-52-14.gif)
 
